@@ -1,0 +1,17 @@
+@font-face {
+    font-family: tektron;
+	src: url('fonts/tektron.ttf');
+}
+
+@font-face {
+    font-family: misa;
+    src: url('fonts/13_Misa.ttf');
+}
+
+body {
+    background-color: black;
+    font-family: Verdana; 
+    color: #59c6fe;
+    padding: 0px;
+    margin: 0px;
+}
